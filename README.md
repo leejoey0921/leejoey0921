@@ -13,9 +13,10 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-sqauare&logo=kotlin&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-sqauare&logo=python&logoColor=ffdd54)&nbsp;
 ![Ruby](https://img.shields.io/badge/Ruby-CC0000.svg?style=flat-sqauare&logo=ruby&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-sqauare&logo=openjdk&logoColor=white)&nbsp;
+![OCaml](https://img.shields.io/badge/OCaml-ED8B00.svg?style=flat-sqauare&logo=OCaml&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-sqauare&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=flat-sqauare&logo=typescript&logoColor=%23F7DF1E)&nbsp;
+
 
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-sqauare&logo=spring&logoColor=white)&nbsp;
 ![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-sqauare&logo=ruby-on-rails&logoColor=white)&nbsp;
